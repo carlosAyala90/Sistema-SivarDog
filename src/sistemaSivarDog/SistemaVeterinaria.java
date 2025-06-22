@@ -1,10 +1,5 @@
 package sistemaSivarDog;
 
-//
-//Source code recreated from a .class file by IntelliJ IDEA
-//(powered by FernFlower decompiler)
-//
-
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
